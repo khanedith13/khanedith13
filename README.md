@@ -55,6 +55,15 @@ Sisters of Mary School – Boystown, Inc.
 
 ---
 
+## 💼 Work Experience
+**Photoshop Editor & Print Operator**  
+FTW Athletics  
+- 1.5 years of experience in editing and print production  
+- Managed design layouts and print outputs efficiently  
+- Worked in a fast-paced production environment
+
+---
+
 ## 🧭 Connect With Me
 
 * GitHub: https://github.com/khanedith13
