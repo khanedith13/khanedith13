@@ -1,4 +1,4 @@
-# 🏙️ Delfin’s GitHub City
+# 🧑 Delfin G. Octobre
 
 Welcome to my digital city — where projects are buildings and code brings everything to life.
 
