@@ -10,6 +10,17 @@ A detail-oriented Computer Technology student majoring in Software Development, 
 
 ---
 
+## 🛠️ Technical Skills
+
+### Programming & Web Development
+- C Programming
+- HTML
+- Bootstrap
+- CSS
+- JavaScript
+
+
+
 ## 🌆 District Map
 
 🏢 **Core Systems**
