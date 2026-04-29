@@ -33,25 +33,25 @@ A detail-oriented Computer Technology student majoring in Software Development, 
 
 ---
 
-## 📊 City Activity
+## 🎓 Education
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME\&show_icons=true\&theme=tokyonight)
+**Associate in Computer Technology (Software Development)**  
+University of San Jose – Recoletos, Main Campus  
+2025 – 2027 (Expected)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME\&layout=compact\&theme=tokyonight)
+**Senior High School**  
+Sisters of Mary School – Boystown, Inc.  
+2021 – 2023
+
+**Junior High School**  
+Sisters of Mary School – Boystown, Inc.  
+2017 – 2021
 
 ---
 
-## 🌃 Skyline (My Contributions)
-
-![3D Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR-USERNAME\&theme=tokyo-night)
-
----
-
-## 🚀 City Growth Plan
-
-* Add more full-stack projects
-* Improve UI/UX (Glassmorphism theme)
-* Deploy live apps
+## 🏆 Certifications
+- National Certificate II – Computer Systems Servicing (NC II)
+- National Certificate II – Bread and Pastry Production (NC II)
 
 ---
 
