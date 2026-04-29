@@ -1,16 +1,50 @@
-## Hi there 👋
+# 🏙️ Delfin’s GitHub City
 
-<!--
-**khanedith13/khanedith13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my digital city — where projects are buildings and code brings everything to life.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌆 District Map
+
+🏢 **Core Systems**
+
+* 🔧 Inventory System (Main Tower)
+* 🎮 Rock Paper Scissors (Arcade Zone)
+
+💻 **Development District**
+
+* JavaScript Projects
+* Bootstrap UI Builds
+
+🧪 **C Programming Zone**
+
+* 2D Arrays
+* Logic Systems
+
+---
+
+## 📊 City Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME\&layout=compact\&theme=tokyonight)
+
+---
+
+## 🌃 Skyline (My Contributions)
+
+![3D Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR-USERNAME\&theme=tokyo-night)
+
+---
+
+## 🚀 City Growth Plan
+
+* Add more full-stack projects
+* Improve UI/UX (Glassmorphism theme)
+* Deploy live apps
+
+---
+
+## 🧭 Connect With Me
+
+* GitHub: https://github.com/YOUR-USERNAME
