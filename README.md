@@ -64,6 +64,6 @@ FTW Athletics
 
 ---
 
-## 🧭 Connect With Me
-
-* GitHub: https://github.com/khanedith13
+## 📫 Contact Me
+- 📧 Email: octobredelfin13@gmail.com  
+- 📱 Phone: 0993 179 0930  
