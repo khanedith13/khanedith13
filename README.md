@@ -66,4 +66,8 @@ FTW Athletics
 
 ## 📫 Contact Me
 - 📧 Email: octobredelfin13@gmail.com  
-- 📱 Phone: 0993 179 0930  
+- 📱 Phone: 0993 179 0930
+
+---
+
+⭐ *“Striving to grow as a developer while delivering quality and efficient solutions.”*
