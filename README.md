@@ -37,7 +37,7 @@ A detail-oriented Computer Technology student majoring in Software Development, 
 
 **Associate in Computer Technology (Software Development)**  
 University of San Jose – Recoletos, Main Campus  
-2025 – 2027 (Expected)
+2025 – 2027 
 
 **Senior High School**  
 Sisters of Mary School – Boystown, Inc.  
