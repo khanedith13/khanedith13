@@ -1,4 +1,4 @@
-# 🧑 Delfin G. Octobre
+# Hi, I'm Delfin G. Octubre 👋
 
 A detail-oriented Computer Technology student majoring in Software Development, with practical experience as a Photoshop Editor and Print Operator. Possesses strong technical skills in C programming, HTML, CSS, JavaScript, and Bootstrap, as well as expertise in computer systems servicing, network setup, and basic web design. Holds National Certificates (NC II) in Computer Systems Servicing and Bread and Pastry Production. Demonstrates the ability to work both independently and collaboratively, with a strong commitment to efficiency, accuracy, and delivering high-quality results in a professional environment.
 
