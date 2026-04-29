@@ -47,4 +47,4 @@ Welcome to my digital city — where projects are buildings and code brings ever
 
 ## 🧭 Connect With Me
 
-* GitHub: https://github.com/YOUR-USERNAME
+* GitHub: https://github.com/khanedith13
