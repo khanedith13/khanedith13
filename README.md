@@ -19,24 +19,17 @@ A detail-oriented Computer Technology student majoring in Software Development, 
 - CSS
 - JavaScript
 
+### Hard Skills
+- Computer Systems Servicing (NC II Certified)
+- Computer Network Setup and Configuration
+- Computer Server Setup and Maintenance
+- Web Page Design Principles
 
-
-## 🌆 District Map
-
-🏢 **Core Systems**
-
-* 🔧 Inventory System (Main Tower)
-* 🎮 Rock Paper Scissors (Arcade Zone)
-
-💻 **Development District**
-
-* JavaScript Projects
-* Bootstrap UI Builds
-
-🧪 **C Programming Zone**
-
-* 2D Arrays
-* Logic Systems
+### Soft Skills
+- Team Collaboration
+- Time Management
+- Customer Service
+- Workplace Safety & Hygiene Practices
 
 ---
 
