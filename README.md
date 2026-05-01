@@ -10,6 +10,9 @@ A detail-oriented Computer Technology student majoring in Software Development, 
 
 ---
 
+## 🏙️ My City Skyline
+![Skyline](https://www.skyline3d.in/khanedith13?endDate=2026-05-01)
+
 ## 🛠️ Technical Skills
 
 ### Programming & Web Development
