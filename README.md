@@ -1,4 +1,4 @@
-# 🏙️ Delfin G. Octobre's GitHub City
+# 🏙️ Delfin G. Octobre's GitHub Profile
 
 🎓 Computer Technology Student | 💻 Software Development Enthusiast
 
@@ -6,15 +6,14 @@
 
 ---
 
-## 🌆 About This City
+## 🌆 About
 
-Welcome to my digital city — where every project is a building, and every line of code helps it grow. I focus on building efficient, clean, and practical software solutions.
+Welcome to my Github profile — where I focus on building efficient, clean, and practical software solutions.
 
 ---
 
-## 🏢 Core Districts
 
-### 💻 Development District
+### 💻 Development 
 
 * 🌐 Web Development (HTML, CSS, JavaScript, Bootstrap)
 * 🎨 UI/UX Design (Glassmorphism & Modern Layouts)
@@ -24,7 +23,7 @@ Welcome to my digital city — where every project is a building, and every line
 * ⚙️ C Programming
 * 🧮 Logic Building & Problem Solving
 
-### 🛠️ Infrastructure District
+### 🛠️ Infrastructure Skills
 
 * 🖥️ Computer Systems and Networks
 * 🌐 Computer Servers
@@ -38,7 +37,7 @@ Welcome to my digital city — where every project is a building, and every line
 
 ---
 
-## 🚧 Featured Buildings (Projects)
+## 🚧 Featured Projects
 
 * 🏢 Inventory Management System *(Smart ingredient tracking system)*
 * 🎮 Rock Paper Scissors *(Interactive game project)*
@@ -77,14 +76,14 @@ Welcome to my digital city — where every project is a building, and every line
 
 ---
 
-## 📫 Contact District
+## 📫 Contact
 
 * 📧 Email: [octobredelfin13@gmail.com](mailto:octobredelfin13@gmail.com)
 * 📱 Phone: 0993 179 0930
 
 ---
 
-## 🌱 City Growth Plan
+## 🌱 Growth Plan
 
 * 🚀 Build more real-world systems
 * 🎯 Improve frontend & UI design
