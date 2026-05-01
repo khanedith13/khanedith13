@@ -42,7 +42,7 @@ Welcome to my digital city — where every project is a building, and every line
 
 ## 🏙️ My Skyline
 
-![GitHub Skyline](https://skyline.github.com/khanedith13/2026.png)
+![GitHub Skyline](https://www.skyline3d.in/khanedith13?endDate=2026-07-31)
 
 ---
 
