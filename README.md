@@ -57,13 +57,13 @@ Welcome to my digital city — where every project is a building, and every line
 
 🎓 **Associate in Computer Technology major in Software Development**
 
-University of San Jose – Recoletos (2025–2027)
+*University of San Jose – Recoletos (2025–2027)
 
 🏫 Sisters of Mary School – Boystown, Inc.
 
-Senior High (2021–2023)
+*Senior High (2021–2023)
 
-Junior High (2017–2021)
+*Junior High (2017–2021)
 
 ---
 
