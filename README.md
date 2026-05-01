@@ -34,17 +34,15 @@ Welcome to my digital city — where every project is a building, and every line
 
 ## 🌃 City Activity Dashboard
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=khanedith13&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=khanedith13&showicons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khanedith13&layout=compact&theme=tokyonight)
 
 ---
 
-## 🏙️ My Skyline
+## 🏙️ My Activity Graph
 
-👉 https://www.skyline3d.in/khanedith13
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=khanedith13&theme=tokyo-night)
+[Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=khanedith13&theme=tokyo-night)
 
 ---
 
