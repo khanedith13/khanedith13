@@ -31,12 +31,6 @@ Welcome to my Github profile — where I focus on building efficient, clean, and
 
 ---
 
-## 🏙️ My Activity Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=khanedith13&theme=tokyo-night)
-
----
-
 ## 🚧 Featured Projects
 
 * 🏢 Inventory Management System *(Smart ingredient tracking system)*
