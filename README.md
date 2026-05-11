@@ -70,6 +70,12 @@ Welcome to my Github profile — where I focus on building efficient, clean, and
 * Managed layouts and high-volume printing
 * Worked efficiently in fast-paced environments
 
+**🍞 Baker — Homebakers Inc.**
+
+* 1.5 years experience in design & print production
+* Managed layouts and high-volume printing
+* Worked efficiently in fast-paced environments
+
 ---
 
 ## 📫 Contact
