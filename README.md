@@ -13,7 +13,9 @@ Welcome to my Github profile — where I focus on building efficient, clean, and
 ---
 
 
-### 💻 Development 
+## 💻 Tech Stack
+
+### 🧪 Systems & Programming Zone
 
 * 🌐 Web Development (HTML, CSS, JavaScript, Bootstrap)
 * 🎨 UI/UX Design (Glassmorphism & Modern Layouts)
