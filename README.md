@@ -81,7 +81,7 @@ Welcome to my Github profile — where I focus on building efficient, clean, and
 ## 📫 Contact
 
 * 📧 Email: [octobredelfin13@gmail.com](mailto:octobredelfin13@gmail.com)
-* 📱 Phone: 0993 179 0930
+* 📱 Phone: [+63 993 179 0930](tel:+639931790930)
 
 ---
 
