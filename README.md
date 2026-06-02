@@ -15,21 +15,20 @@ Welcome to my Github profile — where I focus on building efficient, clean, and
 
 ## 💻 Tech Stack
 
-### 🧪 Systems & Programming Zone
+### 🧪 Front End 
 
 * 🌐 Web Development (HTML, CSS, JavaScript, Bootstrap)
 * 🎨 UI/UX Design (Glassmorphism & Modern Layouts)
 
-### 🧪 Systems & Programming Zone
+### 🧪 Back End
 
 * ⚙️ C Programming
 * 🧮 Logic Building & Problem Solving
 
 ### 🛠️ Infrastructure Skills
 
-* 🖥️ Computer Systems and Networks
-* 🌐 Computer Servers
-* 🗄️ Maintain and Repair Computer Systems and Networks.
+* 🖥️ Computer Systems, Networks and Servers.
+* 🗄️ Maintain and Repair Computer Systems, Networks and Servers.
 
 ---
 
