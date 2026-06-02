@@ -68,13 +68,13 @@ Welcome to my Github profile — where I focus on building efficient, clean, and
 
 * 1.5 years experience in design & print production
 * Managed layouts and high-volume printing
-* Worked efficiently in fast-paced environments
+* Worked efficiently in fast-paced production environments
 
 **🍞 Baker — Homebakers Inc.**
 
-* 1.5 years experience in design & print production
-* Managed layouts and high-volume printing
-* Worked efficiently in fast-paced environments
+* 1 year experience in cake production
+* Managed stocks and high-volume orders
+* Worked efficiently in fast-paced production environments
 
 ---
 
