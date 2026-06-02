@@ -36,6 +36,7 @@ Welcome to my Github profile — where I focus on building efficient, clean, and
 
 * 🏢 Inventory Management System *(Smart ingredient tracking system)*
 * 🎮 Rock Paper Scissors *(Interactive game project)*
+* 📱 Vending Machine *(Vending Machine Simulation)*
 * 🧾 Future Full-Stack Projects *(Coming soon)*
 
 ---
