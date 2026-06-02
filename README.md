@@ -1,6 +1,6 @@
 # 🏙️ Delfin G. Octobre's GitHub Profile
 
-🎓 Computer Technology Student | 💻 Software Development Enthusiast
+🎓 Associate in Computer Technology major in Software Development
 
 📍 Bohol, Philippines
 
