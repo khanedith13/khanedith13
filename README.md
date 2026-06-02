@@ -27,7 +27,7 @@ Welcome to my Github profile — where I focus on building efficient, clean, and
 
 ### 🛠️ Infrastructure Skills
 
-* 🖥️ Computer Systems, Networks and Servers.
+* 🖥️ Configure Computer Systems, Networks and Servers.
 * 🗄️ Maintain and Repair Computer Systems, Networks and Servers.
 
 ---
