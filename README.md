@@ -2,14 +2,6 @@
 
 💻 Aspiring Full-Stack Software Engineer & AI Engineer
 
-🎓 University of San Jose – Recoletos
-
-  Associate in Computer Technology major in Software Development Student 
-  
-  Cebu City, 6000
-
-📍 Bohol, Philippines
-
 ---
 
 ## 🌆 About
