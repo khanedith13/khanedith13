@@ -1,7 +1,7 @@
 # <div align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey there! I'm Delfin G. Octobre</div>
 
 <div align="center">
-
+  
 ### 💻 Aspiring Full-Stack Software Engineer • 🤖 Future AI Engineer
 
 *"Building a city of code, one project at a time."*
@@ -12,27 +12,10 @@
 
 ## 🚀 About Me
 
-```text
-🎓 Software Development Student
-🏫 University of San Jose – Recoletos
-📍 Cebu, Philippines
+I'm an **Associate in Computer Technology** majoring in **Software Development** at the **University of San Jose – Recoletos**. I enjoy building clean, practical, and user-focused software while continuously learning modern technologies.
 
-💡 I enjoy building software that solves real-world problems.
-
-Currently learning:
-▸ Java
-▸ Python
-▸ PHP & MySQL
-▸ Flutter
-▸ React
-▸ AI Engineering
-
-Mission:
-Become a Full-Stack Software Engineer capable of building
-Web • Mobile • Desktop • AI Applications
-```
-
-
+Currently, I'm expanding my skills in **Java, Python, PHP, React, Angular,** and **AI** with the goal of becoming a **Full-Stack Software Engineer & AI Engineer**.
+  
 ---
 
 # 🛠 Tech Arsenal
