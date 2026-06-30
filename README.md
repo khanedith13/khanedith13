@@ -42,10 +42,10 @@ I'm a Software Development student passionate about building modern web applicat
 
 ## 🚧 Featured Projects
 
-* 🏢 Inventory Management System *(Smart Ingredient Tracking System)*
-* 🎮 Rock Paper Scissors *(Interactive Game Project)*
-* 📱 Vending Machine *(Vending Machine Simulation)*
-* 🧾 Future Full-Stack Projects *(Coming Soon)*
+* 🏢 The_Shelf-Life_Crisis *(Inventory and Expiry Alert System)*
+* 🎮 Jack_N_Poy *(Classic Rock Paper Scissor Game)*
+* 📱 C_VendingMachine *(Vending Machine Simulation)*
+* 🧾 Future Projects *(Coming Soon)*
 
 ---
 
