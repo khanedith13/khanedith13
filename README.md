@@ -1,4 +1,4 @@
-# 🏙️ Delfin G. Octobre's GitHub Profile
+# 👋 Hi, I'm Delfin G. Octobre
 
 🎓 University of San Jose – Recoletos
 
@@ -12,7 +12,7 @@
 
 ## 🌆 About
 
-Welcome to my Github profile — where I focus on building efficient, clean, and practical software solutions.
+Welcome to my Github profile — where I focus on building efficient, clean, and practical software solutions aiming to become a Full-Stack Software Engineer + AI Engineer.
 
 ---
 
