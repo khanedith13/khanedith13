@@ -2,8 +2,6 @@
 
 <div align="center">
 
-
-
 ### 💻 Aspiring Full-Stack Software Engineer • 🤖 Future AI Engineer
 
 *"Building a city of code, one project at a time."*
