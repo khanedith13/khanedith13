@@ -20,9 +20,10 @@ Currently, I'm expanding my skills in **Java, Python, PHP, React, Angular,** and
 
 # 🛠 Tech Arsenal
 
-| 💻 Programming Languages | 🌐 Frontend Development |
-|---------------------------|-------------------------|
-| <img src="https://skillicons.dev/icons?i=c,javascript,java,php,python" /> | <img src="https://skillicons.dev/icons?i=html,css,bootstrap,angular,react" /> |
+| 💻 Programming Languages | 🌐 Frontend Development | ⚙️ Backend Development |
+|---------------------------|-------------------------|-------------------------|
+| <img src="https://skillicons.dev/icons?i=c,javascript,java,php,python" /> | <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,angular" /> | <img src="https://skillicons.dev/icons?i=" /> |
+
 
 ### ⚙️ Backend Development
 * PHP (Learning)
