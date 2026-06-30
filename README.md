@@ -1,6 +1,10 @@
 # 🏙️ Delfin G. Octobre's GitHub Profile
 
-🎓 Associate in Computer Technology major in Software Development
+🎓 University of San Jose – Recoletos
+
+  Associate in Computer Technology major in Software Development Student 
+  
+  Cebu City, 6000
 
 📍 Bohol, Philippines
 
