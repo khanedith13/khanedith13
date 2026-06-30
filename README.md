@@ -27,10 +27,10 @@ Currently, I'm expanding my skills in **Java, Python, PHP, React, Angular,** and
 </p>
 
 ### 🌐 Frontend Development
-* HTML5
-* CSS3
-* Bootstrap
-* JavaScript
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,angular,react" />
+</p>
 
 ### ⚙️ Backend Development
 * PHP (Learning)
