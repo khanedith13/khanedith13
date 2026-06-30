@@ -12,14 +12,30 @@
 
 ---
 
-🚀 About Me
+## 🚀 About Me
 
-Welcome to my GitHub!
+```text
+🎓 Software Development Student
+🏫 University of San Jose – Recoletos
+📍 Cebu, Philippines
 
-I'm a Software Development student passionate about building modern web applications, desktop software, mobile apps, and AI-powered solutions that solve real-world problems.
+💡 I enjoy building software that solves real-world problems.
+
+Currently learning:
+▸ Java
+▸ Python
+▸ PHP & MySQL
+▸ Flutter
+▸ React
+▸ AI Engineering
+
+Mission:
+Become a Full-Stack Software Engineer capable of building
+Web • Mobile • Desktop • AI Applications
+```
+
 
 ---
-
 
 ## 💻 Tech Stack
 
