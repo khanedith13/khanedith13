@@ -35,7 +35,7 @@ I'm a Software Development student passionate about building modern web applicat
 
 ### 🛠️ Computer Hardware Skills
 
-* 🖥️ Configure Computer Systems, Networks and Servers.
+* 🖥️ Set-up and Configure Computer Systems, Networks and Servers.
 * 🗄️ Maintain, Troubleshoot and  Repair Computer Systems, Networks and Servers.
 
 ---
