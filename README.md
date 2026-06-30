@@ -31,7 +31,7 @@ I'm a Software Development student passionate about building modern web applicat
 ### ⚙️ Backend Development
 * PHP (Learning)
 * MySQL (Learning)
-* CRUD Applications
+* CRUD Applications (Learning)
 * REST API Fundamentals (Learning)
 
 ### 🛠️ Infrastructure Skills
