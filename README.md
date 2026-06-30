@@ -28,10 +28,13 @@ I believe that consistent learning, practical experience, and disciplined develo
 * JavaScript (Learning)
 * SQL (Learning)
 
-### 🧪 Front End 
-
-* 🌐 Web Development (HTML, CSS, JavaScript, Bootstrap)
-* 🎨 UI/UX Design (Glassmorphism & Modern Layouts)
+### 🌐 Frontend Development
+* HTML5
+* CSS3
+* Bootstrap
+* Responsive Web Design
+* Modern UI Layouts
+* Glassmorphism Design
 
 ### 🧪 Back End
 
