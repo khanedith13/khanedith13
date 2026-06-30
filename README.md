@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Delfin G. Octobre
 
+💻 Aspiring Full-Stack Software Engineer & AI Engineer
+
 🎓 University of San Jose – Recoletos
 
   Associate in Computer Technology major in Software Development Student 
