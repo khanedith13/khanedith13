@@ -33,10 +33,10 @@ I'm a Software Development student passionate about building modern web applicat
 * CRUD Applications (Learning)
 * REST API Fundamentals (Learning)
 
-### 🛠️ Infrastructure Skills
+### 🛠️ Computer Hardware Skills
 
 * 🖥️ Configure Computer Systems, Networks and Servers.
-* 🗄️ Maintain and Repair Computer Systems, Networks and Servers.
+* 🗄️ Maintain, Troubleshoot and  Repair Computer Systems, Networks and Servers.
 
 ---
 
