@@ -37,13 +37,13 @@ Web • Mobile • Desktop • AI Applications
 
 ---
 
-## 💻 Tech Stack
+# 🛠 Tech Arsenal
 
-### 💡 Programming Languages
-* C
-* JavaScript
-* Java (Learning)
-* PHP (Learning)
+### 💻 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=c,javascript,java,php,python" />
+</p>
 
 ### 🌐 Frontend Development
 * HTML5
