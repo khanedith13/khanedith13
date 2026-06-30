@@ -19,7 +19,6 @@ I'm a Software Development student passionate about building modern web applicat
 * C
 * JavaScript
 * Java (Learning)
-* Python (Learning)
 * PHP (Learning)
 
 ### 🌐 Frontend Development
