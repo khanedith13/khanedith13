@@ -26,9 +26,7 @@ I'm a Software Development student passionate about building modern web applicat
 * HTML5
 * CSS3
 * Bootstrap
-* Responsive Web Design
-* Modern UI Layouts
-* Glassmorphism Design
+* JavaScript
 
 ### ⚙️ Backend Development
 * PHP (Learning)
