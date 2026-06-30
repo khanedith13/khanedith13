@@ -75,14 +75,16 @@ I'm a Software Development student passionate about building modern web applicat
 **🎨 Photoshop Editor & Print Operator — FTW Athletics**
 
 * 1.5 years experience in design & print production
-* Managed layouts and high-volume printing
-* Worked efficiently in fast-paced production environments
-
+* Prepared files for commercial printing
+* Managed high-volume print production
+* Collaborated efficiently under production deadlines
+  
 **🍞 Baker — Homebakers Inc.**
 
 * 1 year experience in cake production
+* Produced cakes and baked goods
 * Managed stocks and high-volume orders
-* Worked efficiently in fast-paced production environments
+* Maintained quality standards and workplace efficiency
 
 ---
 
