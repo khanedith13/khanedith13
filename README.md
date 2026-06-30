@@ -36,10 +36,11 @@ I believe that consistent learning, practical experience, and disciplined develo
 * Modern UI Layouts
 * Glassmorphism Design
 
-### 🧪 Back End
-
-* ⚙️ C Programming
-* 🧮 Logic Building & Problem Solving
+### ⚙️ Backend Development
+* PHP (Learning)
+* MySQL (Learning)
+* CRUD Applications
+* REST API Fundamentals (Learning)
 
 ### 🛠️ Infrastructure Skills
 
