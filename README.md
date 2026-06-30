@@ -4,9 +4,17 @@
 
 ---
 
-## 🌆 About
+🚀 About Me
 
-Welcome to my Github profile — where I focus on building efficient, clean, and practical software solutions aiming to become a Full-Stack Software Engineer + AI Engineer.
+Welcome to my GitHub!
+
+I'm a Software Development student passionate about building modern web applications, desktop software, mobile apps, and AI-powered solutions that solve real-world problems.
+
+I enjoy transforming ideas into clean, efficient, and user-friendly software while continuously improving my programming, problem-solving, and system design skills through hands-on projects.
+
+My long-term goal is to become a Full-Stack Software Engineer and AI Engineer, capable of developing scalable applications across the web, mobile, desktop, and cloud while integrating intelligent AI solutions.
+
+I believe that consistent learning, practical experience, and disciplined development are the keys to becoming a great engineer.
 
 ---
 
