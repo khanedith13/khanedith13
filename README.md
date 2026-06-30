@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Delfin G. Octobre
+# 👋 Hey there! I'm **Delfin G. Octobre**
 
 💻 Aspiring Full-Stack Software Engineer & AI Engineer
 
