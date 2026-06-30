@@ -21,6 +21,13 @@ I believe that consistent learning, practical experience, and disciplined develo
 
 ## 💻 Tech Stack
 
+### 💡 Programming Languages
+* C
+* Java (Learning)
+* Python (Learning)
+* JavaScript (Learning)
+* SQL (Learning)
+
 ### 🧪 Front End 
 
 * 🌐 Web Development (HTML, CSS, JavaScript, Bootstrap)
