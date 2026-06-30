@@ -17,10 +17,10 @@ I'm a Software Development student passionate about building modern web applicat
 
 ### 💡 Programming Languages
 * C
+* JavaScript
 * Java (Learning)
 * Python (Learning)
-* JavaScript (Learning)
-* SQL (Learning)
+* PHP (Learning)
 
 ### 🌐 Frontend Development
 * HTML5
