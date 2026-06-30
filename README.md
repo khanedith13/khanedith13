@@ -1,6 +1,14 @@
-# 👋 Hey there! I'm **Delfin G. Octobre**
+# <div align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey there! I'm Delfin G. Octobre</div>
 
-💻 Aspiring Full-Stack Software Engineer & AI Engineer
+<div align="center">
+
+
+
+### 💻 Aspiring Full-Stack Software Engineer • 🤖 Future AI Engineer
+
+*"Building a city of code, one project at a time."*
+
+</div>
 
 ---
 
@@ -100,7 +108,3 @@ I'm a Software Development student passionate about building modern web applicat
 * 🚀 Build more real-world systems
 * 🎯 Improve frontend & UI design
 * 🌐 Deploy live web applications
-
----
-
-⭐ *“Building a city of code, one project at a time.”*
