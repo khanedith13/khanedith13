@@ -48,7 +48,7 @@ Currently, I'm expanding my skills in **Java, Python, PHP, React, Angular,** and
 
 🏫 Sisters of Mary School – Boystown, Inc.
 
-* Senior High (2021–2023)
+* Senior High (2021–2023) 
 
 * Junior High (2017–2021)
 
