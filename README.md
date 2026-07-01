@@ -51,29 +51,6 @@ Currently, I'm expanding my skills in **Java, Python, PHP, React, Angular,** and
 
 ---
 
-## 🗂️ Featured Projects
-
-* 📋 The_Shelf-Life_Crisis *(Inventory and Expiry Alert System)*
-* 🎮 Jack_N_Poy *(Classic Rock Paper Scissor Game)*
-* 📱 C_VendingMachine *(Vending Machine Simulation)*
-* 🧾 Future Projects *(Coming Soon)*
-
----
-
-## 🎓 Education
-
-🎓 **Associate in Computer Technology major in Software Development**
-
-* University of San Jose – Recoletos (2025–2027)
-
-🏫 Sisters of Mary School – Boystown, Inc.
-
-* Senior High (2021–2023) 
-
-* Junior High (2017–2021)
-
----
-
 ## 🏆 Certifications
 
 * 🖥️ NC II – Computer Systems Servicing
@@ -85,17 +62,7 @@ Currently, I'm expanding my skills in **Java, Python, PHP, React, Angular,** and
 
 **🎨 Photoshop Editor & Print Operator — FTW Athletics**
 
-* 1.5 years experience in design & print production
-* Prepared files for commercial printing
-* Managed high-volume print production
-* Collaborated efficiently under production deadlines
-  
 **🍞 Baker — Homebakers Inc.**
-
-* 1 year experience in cake production
-* Produced cakes and baked goods
-* Managed stocks and high-volume orders
-* Maintained quality standards and workplace efficiency
 
 ---
 
