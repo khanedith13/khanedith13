@@ -20,10 +20,6 @@ I'm an **Associate in Computer Technology** majoring in **Software Development**
 |---------------------------|-------------------------|-------------------------|
 | <img src="https://skillicons.dev/icons?i=c,javascript,java,php,python" /> | <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,angular" /> | <img src="https://skillicons.dev/icons?i=php,laravel,mysql,mongodb,docker" /> |
 
-### ⚙️ Computer Hardware Skills
-
-* 🖥️ Set-up and Configure Computer Systems, Networks and Servers.
-* 🗄️ Maintain, Troubleshoot and  Repair Computer Systems, Networks and Servers.
 
 ---
 
@@ -44,6 +40,17 @@ I'm an **Associate in Computer Technology** majoring in **Software Development**
 📧 **octobredelfin13@gmail.com** &nbsp; • &nbsp; 📱 **+63 993 179 0930**
 
 </div>
+
+### 🧰 Toolkit
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,vercel,figma,postman,docker" />
+</p>
+
+### ⚙️ Computer Hardware Skills
+
+* 🖥️ Set-up and Configure Computer Systems, Networks and Servers.
+* 🗄️ Maintain, Troubleshoot and  Repair Computer Systems, Networks and Servers.
 
 ---
 
