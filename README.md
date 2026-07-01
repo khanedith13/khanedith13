@@ -79,10 +79,25 @@ Currently, I'm expanding my skills in **Java, Python, PHP, React, Angular,** and
 
 ---
 
-## 📫 Contact
+<div align="center">
 
-* 📧 Email: [octobredelfin13@gmail.com](mailto:octobredelfin13@gmail.com)
-* 📱 Phone: [+63 993 179 0930](tel:639931790930)
+## 📫 Connect with Me
+
+<p>
+  <a href="mailto:octobredelfin13@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/octobredelfin13">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="tel:+639931790930">
+    <img src="https://img.shields.io/badge/Phone-%2B63%20993%20179%200930-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+</p>
+
+</div>
 
 ---
 
