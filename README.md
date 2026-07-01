@@ -24,16 +24,16 @@ Currently, I'm expanding my skills in **Java, Python, PHP, React, Angular,** and
 |---------------------------|-------------------------|-------------------------|
 | <img src="https://skillicons.dev/icons?i=c,javascript,java,php,python" /> | <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,angular" /> | <img src="https://skillicons.dev/icons?i=php,laravel,mysql,mongodb,docker" /> |
 
-### 🛠️ Computer Hardware Skills
+### ⚙️ Computer Hardware Skills
 
 * 🖥️ Set-up and Configure Computer Systems, Networks and Servers.
 * 🗄️ Maintain, Troubleshoot and  Repair Computer Systems, Networks and Servers.
 
 ---
 
-## 🚧 Featured Projects
+## 🗂️ Featured Projects
 
-* 🏢 The_Shelf-Life_Crisis *(Inventory and Expiry Alert System)*
+* 📋 The_Shelf-Life_Crisis *(Inventory and Expiry Alert System)*
 * 🎮 Jack_N_Poy *(Classic Rock Paper Scissor Game)*
 * 📱 C_VendingMachine *(Vending Machine Simulation)*
 * 🧾 Future Projects *(Coming Soon)*
