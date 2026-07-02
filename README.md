@@ -22,21 +22,15 @@ I'm an **Associate in Computer Technology** majoring in **Software Development**
 
 ---
 
-<div align="center">
-
 ## 📫 Connect with Me
 
-<a href="mailto:octobredelfin13@gmail.com">
-  <img src="https://img.shields.io/badge/Email-octobredelfin13%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+<div align="center">
 
-<a href="https://www.linkedin.com/in/octobredelfin13/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Delfin%20Octobre-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+📧 **octobredelfin13@gmail.com** &nbsp;  &nbsp; 📱 **+63 993 179 0930**
 
-<br>
-
-📧 **octobredelfin13@gmail.com** &nbsp; • &nbsp; 📱 **+63 993 179 0930**
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:octobredelfin13@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/octobredelfin13/)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/octobredelfin13)
 
 </div>
 
