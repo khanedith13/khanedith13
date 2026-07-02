@@ -1,8 +1,8 @@
 # <div align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey there! I'm Delfin G. Octobre</div>
 
 <div align="center">
-  
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=20&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=+Full-Stack+Software+Developer" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Caveat&size=22&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=420&lines=+Full-Stack+Software+Developer" alt="Typing SVG" />
 
 </div>
 
