@@ -2,7 +2,7 @@
 
 <div align="center">
   
-### 💻 Aspiring Full-Stack Software Developer • 🤖 Future AI Engineer
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=20&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=+Aspiring+Full-Stack+Software+Developer" />
 
 *"Building a city of code, one project at a time."*
 
