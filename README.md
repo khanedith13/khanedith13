@@ -42,24 +42,16 @@ I'm an **Associate in Computer Technology** majoring in **Software Development**
 
 </div>
 
----
-
 ## 🏆 Certifications
 
 <p align="center">&nbsp;🖥️ NC II – Computer Systems Servicing &nbsp;&nbsp; 🍞 NC II – Bread and Pastry Production</p>
 
----
 
 ## 💼 Work Experience
 
-**🎨 Photoshop Editor & Print Operator — FTW Athletics**
+<p align="center">&nbsp;🎨 Photoshop Editor & Print Operator — FTW Athletics &nbsp;&nbsp; 🍞 Baker — Homebakers Inc.</p>
 
-**🍞 Baker — Homebakers Inc.**
-
----
 
 ## 🌱 Growth Plan
 
-* 🚀 Build more real-world systems
-* 🎯 Improve frontend & UI design
-* 🌐 Deploy live web applications
+<p align="center">&nbsp;🚀 Build more real-world systems &nbsp;&nbsp; 🌐 Deploy live web applications &nbsp;&nbsp; 🤖 Learn AI Engineering</p>
