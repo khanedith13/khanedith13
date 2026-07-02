@@ -1,7 +1,10 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> <h1>Hey there! I'm Delfin</h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&size=22&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=420&lines=Full-Stack+Software+Developer" alt="Typing SVG" />
-
+  <h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">&nbsp;Hey there! I'm Delfin</h1>
+  <p><em>Aspiring Full-Stack Software Developer &nbsp;·&nbsp; Learning AI Engineering</em></p>
+  <br>
+  <a>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=800&color=D4A860&center=true&vCenter=true&width=500&lines=Aspiring+Full-Stack+Developer;Learning+AI+Engineering" alt="Typing SVG"/>
+  </a>
 </div>
 
 ---
