@@ -27,7 +27,7 @@ I'm an **Associate in Computer Technology** majoring in **Software Development**
 
 * 🖥️ Set-up and Configure Computer Systems, Networks and Servers.
 * 🗄️ Maintain, Troubleshoot and  Repair Computer Systems, Networks and Servers.
-* 
+
 ---
 
 ## 📫 Connect with Me
@@ -46,8 +46,7 @@ I'm an **Associate in Computer Technology** majoring in **Software Development**
 
 ## 🏆 Certifications
 
-* 🖥️ NC II – Computer Systems Servicing
-* 🍞 NC II – Bread and Pastry Production
+<p align="center">&nbsp;🖥️ NC II – Computer Systems Servicing &nbsp;&nbsp; 🍞 NC II – Bread and Pastry Production</p>
 
 ---
 
