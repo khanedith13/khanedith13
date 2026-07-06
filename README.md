@@ -7,7 +7,7 @@
   </a>
 </div>
 
-I'm an **Associate in Computer Technology** majoring in **Software Development** at the **University of San Jose – Recoletos**. I enjoy building clean, practical, and user-focused software while continuously learning modern technologies. Currently, I'm expanding my skills in **Java, Python, PHP, React, Angular,** and **AI** with the goal of becoming a **Full-Stack Software Developer & AI Engineer**.
+I'm an **Associate in Computer Technology** majoring in **Software Development** at the **University of San Jose – Recoletos**. I enjoy building clean, practical, and user-focused software while continuously learning modern technologies. Currently, I'm expanding my skills in **Java, Python, PHP, Laravel, Angular,** and **AI** with the goal of becoming a **Full-Stack Software Developer & AI Engineer**.
   
 ---
 
