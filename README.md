@@ -4,7 +4,7 @@
   <br>
 
 <p align="center">
-  <a href="https://your-portfolio-link.com">
+  <a href="https://github.com/khanedith13">
     <img src="https://img.shields.io/badge/Portfolio%20coming soon-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
