@@ -3,6 +3,12 @@
   <p><em>Aspiring Full-Stack Software Developer &nbsp;·&nbsp; Learning AI Engineering</em></p>
   <br>
 
+<p align="center">
+  <a href="https://your-portfolio-link.com">
+    <img src="https://img.shields.io/badge/Portfolio%20coming soon-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
 </div>
 
 I'm an **Associate in Computer Technology** majoring in **Software Development** at the **University of San Jose – Recoletos**. I enjoy building clean, practical, and user-focused software while continuously learning modern technologies. Currently, I'm expanding my skills in **Java, Python, PHP, Laravel, Angular,** and **AI** with the goal of becoming a **Full-Stack Software Developer & AI Engineer**.
