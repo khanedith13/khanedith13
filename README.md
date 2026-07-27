@@ -4,7 +4,7 @@
   <br>
 
 <p align="center">
-  <a href="[delfingoctobre.vercel.app](https://delfingoctobre.vercel.app/)">
+  <a href="https://delfingoctobre.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio%20-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
