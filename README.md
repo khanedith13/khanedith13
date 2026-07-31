@@ -19,7 +19,7 @@ I'm an **Associate in Computer Technology** majoring in **Software Development**
 
 | 💻 Programming Languages | 🌐 Frontend Development | ⚙️ Backend Development |
 |---------------------------|-------------------------|-------------------------|
-| <img src="https://skillicons.dev/icons?i=c,cs,java,php,python" /> | <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript" /> | <img src="https://skillicons.dev/icons?i=php,laravel,mysql" /> |
+| <img src="https://skillicons.dev/icons?i=c,cs,java,php,python" /> | <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript" /> | <img src="https://skillicons.dev/icons?i=php,laravel,mysql,postgresql,mongodb" /> |
 
 ### 🧰 Toolkit
 
