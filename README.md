@@ -1,6 +1,6 @@
 <div align="center">
   <h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">&nbsp;Hey there! I'm Delfin</h1>
-  <p><em>Aspiring Full-Stack Software Developer &nbsp;·&nbsp; Learning AI Engineering</em></p>
+  <p><em>Aspiring Full-Stack Software Developer &nbsp;·&nbsp; Learning Artificial Intelligence</em></p>
   <br>
 
 <p align="center">
@@ -11,7 +11,7 @@
 
 </div>
 
-I'm an **Associate in Computer Technology** majoring in **Software Development** at the **University of San Jose – Recoletos**. I enjoy building clean, practical, and user-focused software while continuously learning modern technologies. Currently, I'm expanding my skills in **Java, Python, PHP, Laravel, Angular,** and **AI** with the goal of becoming a **Full-Stack Software Developer & AI Engineer**.
+I'm an **Associate in Computer Technology** major in **Software Development** at the **University of San Jose – Recoletos**. I  build clean, practical, and user-focused software while continuously learning modern technologies. Currently, I'm expanding my skills in **PHP, Laravel, MySQL, APIs** and **Artificial Intelligence** with the goal of becoming a **Full-Stack Software Developer**.
   
 ---
 
@@ -19,12 +19,12 @@ I'm an **Associate in Computer Technology** majoring in **Software Development**
 
 | 💻 Programming Languages | 🌐 Frontend Development | ⚙️ Backend Development |
 |---------------------------|-------------------------|-------------------------|
-| <img src="https://skillicons.dev/icons?i=c,cs,java,php,python" /> | <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript" /> | <img src="https://skillicons.dev/icons?i=php,laravel,mysql,postgresql,mongodb" /> |
+| <img src="https://skillicons.dev/icons?i=c,cs,java,php,python" /> | <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,react" /> | <img src="https://skillicons.dev/icons?i=laravel,mysql,postgres,supabase,nginx" /> |
 
 ### 🧰 Toolkit
 
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,vercel" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,npm,vercel,figma,docker,postman,webflow,tensorflow" />
 </p>
 
 ### ⚙️ Computer Hardware Skills
@@ -48,4 +48,4 @@ I'm an **Associate in Computer Technology** majoring in **Software Development**
 
 ## 🌱 Growth Plan
 
-<p align="center">&nbsp;🚀 Build more real-world systems &nbsp;&nbsp; 🌐 Deploy live web applications &nbsp;&nbsp; 🤖 Learn AI Engineering</p>
+<p align="center">&nbsp;🚀 Build more real-world systems &nbsp;&nbsp; 🌐 Deploy live web applications &nbsp;&nbsp; 🤖 Learn Artificial Intelligence</p>
