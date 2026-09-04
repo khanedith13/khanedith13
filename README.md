@@ -1,9 +1,3 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark_mode_ASCII profile.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="light_mode_ASCII profile.svg" />
-  <img alt="khanedith13's GitHub profile" src="dark_mode_ASCII profile.svg" />
-</picture>
-
 <div align="center">
   <h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">&nbsp;Hey there! I'm Delfin</h1>
   <p><em>Aspiring Full-Stack Software Developer &nbsp;·&nbsp; Learning Artificial Intelligence</em></p>
