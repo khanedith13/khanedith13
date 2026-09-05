@@ -29,8 +29,10 @@ I'm an **Associate in Computer Technology** major in **Software Development** at
 
 ### ⚙️ Computer Hardware Skills
 
-* 🖥️ Set-up and Configure Computer Systems, Networks and Servers.
-* 🗄️ Maintain, Troubleshoot and  Repair Computer Systems, Networks and Servers.
+* 🖥️ Install and Configure Computer Systems
+* 🌐 Set-up Computer Networks
+* 🗄️ Set-up Computer Servers
+* 🔧 Computer Systems and Networks Maintenance
 
 ---
 
