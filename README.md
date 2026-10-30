@@ -24,7 +24,7 @@ I'm an **Associate in Computer Technology** major in **Software Development** at
 ### 🧰 Toolkit
 
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,npm,vercel,figma,docker,postman,webflow,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,npm,vercel,figma,docker,postman,tensorflow" />
 </p>
 
 ### ⚙️ Computer Hardware Skills
